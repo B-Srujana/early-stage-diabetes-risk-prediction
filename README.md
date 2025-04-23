@@ -5,3 +5,6 @@ This project applies machine learning techniques to predict early stage diabetes
 ## Dataset
 - [Early Stage Diabetes Risk Prediction Dataset (UCI)](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 - Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+## Mentor
+This project is carried out with the mentorship and support of Professor Moy Patel.
